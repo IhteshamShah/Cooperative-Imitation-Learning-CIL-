@@ -34,21 +34,13 @@ considering samples sizes (512, 1024) at 0 dB SNR for Rayleigh channel. Here we 
 
 
 
-
-## Future Scope
-
-- Other features such as Cyclostationary and Spectral features can further be explored. 
-- Similarly, Deep learning approach instead of ELM can be used 
-- New bio-inspired heuristic techniques such as Cat swarm optimization, Bat optimization, firefly optimization can also be utilized to enhance the accuracy at low snr values.
-
-
 ## Deployment
 
 To deploy this project run
 
 ```bash
-   install MATLAB
+   install Python 3.2 or higher version
 ```
 ## Acknowledgements
 
- - [Article](https://ieeexplore.ieee.org/abstract/document/8754798)
+ - [Article](https://ieeexplore.ieee.org/abstract/document/9837927)
