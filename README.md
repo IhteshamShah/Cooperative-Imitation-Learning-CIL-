@@ -3,8 +3,6 @@ Dynamic Treatment Regimes (DTRs) are sets of sequential decision rules that can 
 We propose a Cooperative Imitation Learning (CIL) method that exploits information from both negative and positive trajectories to learn the optimal DTR. The proposed method reduces the chance of selecting any treatment which results in a negative outcome (negative response of the patient) during the medical examination.
 To validate our approach, we have considered a well-known DTR which is defined for the treatment of patients with alcohol addiction. Results show that our approach outperforms those that rely only on positive trajectories.
 
-## Installation 
-The Code is written in MATLAB R2015b. If you don't have MATLAB installed you can find it [here](https://se.mathworks.com/store/?ef_id=Cj0KCQjwof6WBhD4ARIsAOi65ahm5EmvYkeZrBV4inHO6ap_WU7FS2A51nQBeZsW1OREpax5dJAnWJQaAmRcEALw_wcB:G:s&s_kwcid=AL!8664!3!552213010978!p!!g!!get%20matlab&s_eid=ppc_69452703753&q=get%20matlab&gclid=Cj0KCQjwof6WBhD4ARIsAOi65ahm5EmvYkeZrBV4inHO6ap_WU7FS2A51nQBeZsW1OREpax5dJAnWJQaAmRcEALw_wcB). If you are using an updated version of MATLAB you may need to modify the code accordingly. ## Disscussion
 ### (i) System Model
 
 The AMC module consists of three stages: \
